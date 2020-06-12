@@ -1,4 +1,4 @@
-# character-calc
+# character-calc-ru
 ## Description
 This utility program was made to calculate russian characters in text.
 ## How to
